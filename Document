@@ -1,0 +1,22 @@
+# VSCode 
+
+### peak
+
+클래스를 클릭하면 해당 클래스가 정의 되어 있는 CSS 파일로 이동. 
+
+- HTML CSS Support
+- CSS Peak 
+
+
+### Git
+
+연결된 git 과 연경되어 히스토리 로그를 파악 할 수 있다. 
+
+- GitLens 
+
+
+### Live Share
+
+다른 사람과 사용시, 버전 확인이 필요하다.
+
+- Live share 
